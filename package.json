@@ -1,0 +1,19 @@
+{
+  "name": "studbud",
+  "version": "1.0.0",
+  "description": "Web application for studying DECO2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkim2138/studbud.git"
+  },
+  "author": "Ngo Bui Kim Anh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkim2138/studbud/issues"
+  },
+  "homepage": "https://github.com/nkim2138/studbud#readme"
+}
